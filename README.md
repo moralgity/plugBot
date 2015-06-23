@@ -1,2 +1,2 @@
 # plugBot
-A quick node.js bot using the plug.dj api
+A quick node.js bot for a certan plug.dj room
